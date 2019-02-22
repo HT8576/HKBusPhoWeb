@@ -4,4 +4,6 @@
 Welcome to Hong Kong Bus Photos Database.
 
 ## Links 
-[KMB Photos](KMBPho)
+[KMB Photos](KMBpho.md)
+[LWB Photos](LWBpho.md)
+[NWF Photos](nwfb.md)
